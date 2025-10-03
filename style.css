@@ -1,0 +1,66 @@
+ main h1{
+text-align: center;
+font-size: 47px;
+}
+main img{
+    height: 170px;
+    width: 300px;
+}
+nav a{
+    text-decoration: none;
+    border-radius: 50px;
+     border: 1px solid purple;
+     background-color: aqua;
+     color:black;
+     text-align: center;
+     margin: 70px;
+     padding: 5px;
+}
+header{
+    background-color: purple;
+    padding: 5px;
+}
+main p{
+    font-size: 25px;
+    background-color: lightblue;
+}
+table{
+    border: 1px solid lightblue;
+}
+td{
+    border: 1px solid purple;
+}
+.img{
+    height: 30px;
+    width: 25px;
+}
+.img2{
+    height: 200px;
+    width: 475px;
+}
+.img1{
+    height: 30px;
+    width: 25px;
+    
+}
+.img{
+    height: 30px;
+    width: 25px;
+}
+.img3{
+    height: 30px;
+    width: 25px;
+}
+footer{
+    background-color: lightgreen;
+    border-radius: 50px;
+     border: 1px solid purple;
+     color:black;
+     text-align: center;
+     margin: 70px;
+     padding: 5px;
+}
+footer a{
+    text-decoration: none;
+
+}
